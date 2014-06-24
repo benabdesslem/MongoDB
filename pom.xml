@@ -66,7 +66,7 @@
        <artifactId>maven-war-plugin</artifactId>
        <version>2.2</version>
        <configuration>
-         <outputDirectory>deployments</outputDirectory>
+         <outputDirectory>webapp</outputDirectory>
          <warName>ROOT</warName>
        </configuration>
      </plugin>
